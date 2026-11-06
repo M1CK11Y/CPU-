@@ -32,3 +32,4 @@ As for the project planning review...Research: Investigate CPU scheduling algori
 - Data collection and analysis: Obtain and analyse publicly available electricity-consumption and computing-workload datasets.
 - System design and development: Design and implement a scheduling simulation using priority levels and available electricity periods.
 - Documentation and presentation: Compile findings, prepare the final report and coordinate the group presentation.
+This project planning review doesn't necessarily have to be in the final project scoop ...its just the insight of how things will be all planned out...in the project scoop we only need the allocation of responsibilities like we did...
