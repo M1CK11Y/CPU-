@@ -33,9 +33,9 @@ CPU Tech innovators
       
 **_OBJECTIVES_**
 
-      1. To identify and classify household activities accordance to their levels of importance based on their urgency and dependence on electricity during load- shedding times. 
-      2. To design and implement a priority-aware task scheduling prototype that uses ZESA load-shedding schedules to allocate essential household activities to       available electricity periods
-      3. To evaluate the performance of the scheduling model by comparing electricity utilisation under different load-shedding segments that is household, block and townships
+      1. To identify and classify jobs accordance to their levels of importance based on their urgency and dependence on electricity during load- shedding times. 
+      2. To design and implement a priority-aware job scheduling prototype that uses ZESA load-shedding schedules to allocate priority jobs 
+      3. To evaluate the performance of the job scheduling model by comparing electricity utilisation and job completion rates under different load-shedding    regimes across targeted workloads. 
 
 **_OS Concepts_**
 
