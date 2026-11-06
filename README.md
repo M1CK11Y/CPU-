@@ -38,6 +38,7 @@ CPU Tech innovators
       3. To evaluate the performance of the scheduling model by comparing electricity utilisation under different load-shedding segments that is household, block and townships
 
 **_OS Concepts_**
+
 Prioty Scheduling(CPU Scheduling) 
 
  
