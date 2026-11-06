@@ -28,7 +28,8 @@ CPU Tech innovators
 
 **_WE AIM TO_**:
 
-       Build a prototype that simulates how power is distributed according to its priority as a household task using ZETDC load-shedding schedules. 
+    To develop a priority-aware job scheduling system that operates around power interruptions by integrating real ZESA load-shedding schedules with a public cloud workload, in order to maximise the completion of critical jobs.
+
       
 **_OBJECTIVES_**
 
