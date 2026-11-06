@@ -9,7 +9,7 @@ How can an automated, priority-aware domestic task scheduling algorithm dynamica
 
 **_WE AIM TO_**:
 
-      1. Build a prototype that simulates how power is distributed according to its priority as a household task.
+ Build a prototype that simulates how power is distributed according to its priority as a household task.
       
 **_OBJECTIVES_**
 
