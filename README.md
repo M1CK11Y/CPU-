@@ -4,3 +4,12 @@ We are researching on priority-aware task scheduling mechanism to maintain criti
 
 **_AIMS_**:
       1. Build a prototype that simulates how power is distributed according to its priority as a household task.
+
+
+
+
+
+DELIVERY METHOD
+
+The final output of this project will be a priority-aware household task scheduling system prototype that uses ZETDC load shedding schedules to classify and grade household activities according to their level of importance.
+
