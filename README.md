@@ -42,7 +42,7 @@ Job Scheduling
 
       1. To identify and classify jobs accordance to their levels of importance based on their urgency and dependence on electricity during load- shedding times. 
       2. To design and implement a priority-aware job scheduling prototype that uses ZESA load-shedding schedules to allocate priority jobs 
-      3. To evaluate the performance of the job scheduling model by comparing electricity utilisation and job completion rates under different load-shedding regimes across targeted workloads. 
+      3.  Maintaining efficiency and maximising completed work while reducing lost progress from sudden outages, compared to traditional schedulers.
 
 
  
