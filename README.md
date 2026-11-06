@@ -22,7 +22,7 @@ https://archive.ics.uci.edu/ml/datasets/individual+household+electricpower+consu
  Kaggle (Electric Power Consumption Dataset): https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set 
  Google Cluster Data (GitHub): 
 https://github.com/google/cluster-data
-Electricity generation 
+Electricity generation :
 https://www.zimstat.co.zw/wp-content/uploads/production/Mining/2025/Index%20of%20Electricity%20Generation%20Q1%202025%20dissemination.pdf
 
 
