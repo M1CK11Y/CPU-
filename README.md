@@ -22,6 +22,7 @@ https://archive.ics.uci.edu/ml/datasets/individual+household+electricpower+consu
  Kaggle (Electric Power Consumption Dataset): https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set 
  Google Cluster Data (GitHub): 
 https://github.com/google/cluster-data
+https://3-mob.com/wp-content/uploads/2021/09/ZESA-LOAD-SHEDDING-SCHEDULE-2021.pdf
 
 
 **_DELIVERY METHOD_**
