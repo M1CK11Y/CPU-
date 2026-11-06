@@ -3,4 +3,4 @@ We are researching on priority-aware task scheduling mechanism to maintain criti
 
 
 **_AIMS_**:
-  1. Build a prototype that simulates how power is distributed according to its priority as a household task.
+      1. Build a prototype that simulates how power is distributed according to its priority as a household task.
