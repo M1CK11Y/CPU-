@@ -30,6 +30,6 @@ How can an automated, priority-aware domestic task scheduling algorithm dynamica
       Hilda Dahwa
       Natasha Nkomo
       Michelle Karabo
-      Shanelle Mondy
+      Shanelle Mondy    N02654997Y  "Writing"
       Desire Mbiri
 
