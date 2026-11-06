@@ -24,7 +24,7 @@ CPU Tech innovators
       Kudra Gumbo
       Ishmael I Shayanewako N02654127T "Build development"
       Taruvinga Mufudzi
-      Cheryl Donga
+      Cheryl Donga N02641879T "presentation "
       Michael T Duri
       Tendai Matonhodze N02645116N "Research"
       Hilda Dahwa N02657091M "research"
