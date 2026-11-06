@@ -14,7 +14,7 @@ How can an automated, priority-aware domestic task scheduling algorithm dynamica
 **_OBJECTIVES_**
 
       1. Rank appliances according to power demand
-      
+      2. To implement prototype on households with alternative power sources 
       3. To evaluate scheduling queue for households under priority first for a large area.
 _**DATA SETS**_:
 UCI Machine Learning Repository (Electric Power Consumption):
