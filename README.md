@@ -28,7 +28,7 @@ CPU Tech innovators
       Michael T Duri
       Tendai Matonhodze N02645116N "Research"
       Hilda Dahwa N02657091M "research"
-      Natasha Funekiwe Nkomo N02642892B
+      Natasha Funekiwe Nkomo N02642892B Presentation 
       Michelle Karabo
       Shanelle Mondy   N02654997Y  "Writing"
       Desire Mbiri
