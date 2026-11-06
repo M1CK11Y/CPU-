@@ -20,7 +20,7 @@ How can an automated, priority-aware domestic task scheduling algorithm dynamica
 **_TEAM MEMBERS_**
 
       Yemurai Takaindisa N02645752X "Build development"
-      Anesu Njenge
+      Anesu Njenge N02641219V "Build"
       Kudra Gumbo
       Ishmael I Shayanewako
       Taruvinga Mufudzi
