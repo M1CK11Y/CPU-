@@ -28,7 +28,7 @@ How can an automated, priority-aware domestic task scheduling algorithm dynamica
       Michael T Duri
       Tendai Matonhodze
       Hilda Dahwa
-      Natasha Nkomo
+      Natasha Funekiwe Nkomo N02642892B
       Michelle Karabo
       Shanelle Mondy    N02654997Y  "Writing"
       Desire Mbiri
