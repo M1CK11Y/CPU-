@@ -12,4 +12,4 @@ How can an automated, priority-aware domestic task scheduling algorithm dynamica
 DELIVERY METHOD
 
 The final output of this project will be a priority-aware household task scheduling system prototype that uses ZETDC load shedding schedules to classify and grade household activities according to their level of importance.
-
+The system will automatically prioritize critical tasks, such as food preservation, water pumping, device charging, and essential appliances, and schedule them during available electricity periods.
