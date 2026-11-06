@@ -36,3 +36,8 @@ As for the project planning review...Research: Investigate CPU scheduling algori
 - System design and development: Design and implement a scheduling simulation using priority levels and available electricity periods.
 - Documentation and presentation: Compile findings, prepare the final report and coordinate the group presentation.
 This project planning review doesn't necessarily have to be in the final project scoop ...its just the insight of how things will be all planned out...in the project scoop we only need the allocation of responsibilities like we did...
+
+how about these for our objectives?...
+1. To identify and classify household activities accordance to their levels of importance based on their urgency and dependence on electricity during load-shedding periods.
+2. To design and implement a priority-aware task scheduling prototype that uses ZESA load-shedding schedules to allocate essential household activities to available electricity periods.
+3. To evaluate the performance of the scheduling model by comparing electricity utilisation under different scheduling algorithms including First-Come First-Served and Priority Scheduling.
