@@ -1,4 +1,4 @@
-CPU Tech innovators :
+8CPU Tech innovators :
 
       We are researching on priority-aware task scheduling mechanism to maintain critical
       house activities under ZESA Load- Shedding Schedules
@@ -37,4 +37,4 @@ As for the project planning review...Research: Investigate CPU scheduling algori
 - Documentation and presentation: Compile findings, prepare the final report and coordinate the group presentation.
 This project planning review doesn't necessarily have to be in the final project scoop ...its just the insight of how things will be all planned out...in the project scoop we only need the allocation of responsibilities like we did...
 
-how about these for our objectives?...
+
