@@ -25,7 +25,7 @@ How can an automated, priority-aware domestic task scheduling algorithm dynamica
       Ishmael I Shayanewako
       Taruvinga Mufudzi
       Cheryl Donga
-      Micheal Duri
+      Michael T Duri
       Tendai Matonhodze
       Hilda Dahwa
       Natasha Nkomo
