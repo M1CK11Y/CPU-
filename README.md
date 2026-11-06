@@ -27,7 +27,7 @@ How can an automated, priority-aware domestic task scheduling algorithm dynamica
       Cheryl Donga
       Michael T Duri
       Tendai Matonhodze
-      Hilda Dahwa
+      Hilda Dahwa N02657091M "research"
       Natasha Funekiwe Nkomo N02642892B
       Michelle Karabo
       Shanelle Mondy    N02654997Y  "Writing"
