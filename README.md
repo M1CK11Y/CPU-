@@ -13,8 +13,8 @@ CPU Tech innovators :
       
 **_OBJECTIVES_**
 
-      1. To identify and classify household activities accordance to their levels of importance based on their urgency and dependence on electricity during load- shedding periods.
-      2. To design and implement a priority-aware task scheduling prototype that uses ZESA load-shedding schedules to allocate essential household activities to       available electricity periods.
+      1. To identify and classify household activities accordance to their levels of importance based on their urgency and dependence on electricity during load- shedding times. 
+      2. To design and implement a priority-aware task scheduling prototype that uses ZESA load-shedding schedules to allocate essential household activities to       available electricity periods
       3. To evaluate the performance of the scheduling model by comparing electricity utilisation under different load segments that is household, block and townships
 
 **_TEAM MEMBERS_**
@@ -33,3 +33,4 @@ CPU Tech innovators :
       Shanelle Mondy   N02654997Y  "Writing"
       Desire Mbiri
       Nicole Mhofu  N02644714Y
+      Tadiwa W Mukozho N02642410B "Build development" 
