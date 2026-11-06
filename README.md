@@ -12,10 +12,10 @@ How can an automated, priority-aware domestic task scheduling algorithm dynamica
  Build a prototype that simulates how power is distributed according to its priority as a household task.
       
 **_OBJECTIVES_**
+1. To identify and classify household activities accordance to their levels of importance based on their urgency and dependence on electricity during load-shedding periods.
+2. To design and implement a priority-aware task scheduling prototype that uses ZESA load-shedding schedules to allocate essential household activities to available electricity periods.
+3. To evaluate the performance of the scheduling model by comparing electricity utilisation under different scheduling algorithms including First-Come First-Served and Priority Scheduling.
 
-      1. Rank appliances according to power demand
-      2. To implement prototype on households with alternative power sources 
-      3. To evaluate scheduling queue for households under priority first for a large area.
 _**DATA SETS**_:
 UCI Machine Learning Repository (Electric Power Consumption):
 https://archive.ics.uci.edu/ml/datasets/individual+household+electricpower+consumption 
@@ -38,6 +38,3 @@ As for the project planning review...Research: Investigate CPU scheduling algori
 This project planning review doesn't necessarily have to be in the final project scoop ...its just the insight of how things will be all planned out...in the project scoop we only need the allocation of responsibilities like we did...
 
 how about these for our objectives?...
-1. To identify and classify household activities accordance to their levels of importance based on their urgency and dependence on electricity during load-shedding periods.
-2. To design and implement a priority-aware task scheduling prototype that uses ZESA load-shedding schedules to allocate essential household activities to available electricity periods.
-3. To evaluate the performance of the scheduling model by comparing electricity utilisation under different scheduling algorithms including First-Come First-Served and Priority Scheduling.
