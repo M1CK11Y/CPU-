@@ -1,5 +1,7 @@
 CPU Tech innovators
 
+Job Scheduling
+
 **_Project Title_**
 
      Keeping Critical Jobs Alive :A Power-Interruption-Aware Job Scheduler
@@ -31,7 +33,7 @@ CPU Tech innovators
 
     How can an automated, priority-aware domestic task scheduling algorithm dynamically optimize household appliance runtimes to maximize the completion of critical operations and minimize grid reliance under unpredictable ZETDC load-shedding schedules?
 
-**_WE AIM TO_**:
+**_WE AIM **:
 
     To develop a priority-aware job scheduling system that operates around power interruptions by integrating real ZESA load-shedding schedules with a public cloud workload, in order to maximise the completion of critical jobs.
 
@@ -40,10 +42,7 @@ CPU Tech innovators
 
       1. To identify and classify jobs accordance to their levels of importance based on their urgency and dependence on electricity during load- shedding times. 
       2. To design and implement a priority-aware job scheduling prototype that uses ZESA load-shedding schedules to allocate priority jobs 
-      3. To evaluate the performance of the job scheduling model by comparing electricity utilisation and job completion rates under different load-shedding    regimes across targeted workloads. 
+      3. To evaluate the performance of the job scheduling model by comparing electricity utilisation and job completion rates under different load-shedding regimes across targeted workloads. 
 
-**_OS Concepts_**
-
-Prioty Scheduling(CPU Scheduling) 
 
  
