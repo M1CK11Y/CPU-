@@ -7,6 +7,9 @@ How can an automated, priority-aware domestic task scheduling algorithm dynamica
 **_AIMS_**:
       1. Build a prototype that simulates how power is distributed according to its priority as a household task.
       
+   **objectives **
+1. Rank appliances according to power demand
+      
 DATA SETS:
 UCI Machine Learning Repository (Electric Power Consumption):
 https://archive.ics.uci.edu/ml/datasets/individual+household+electricpower+consumption 
