@@ -19,18 +19,18 @@ CPU Tech innovators
 
 **_TEAM MEMBERS_**
 
-      Yemurai Takaindisa N02645752X "Build development"
-      Anesu Njenge N02641219V "Build"
-      Kudra Gumbo
-      Ishmael I Shayanewako N02654127T "Build development"
-      Taruvinga Mufudzi
-      Cheryl Donga N02641879T "presentation "
-      Michael T Duri
-      Tendai Matonhodze N02645116N "Research"
-      Hilda Dahwa N02657091M "research"
-      Natasha Funekiwe Nkomo N02642892B Presentation 
-      Michelle Karabo
-      Shanelle Mondy   N02654997Y  "Writing"
-      Desire Mbiri
-      Nicole Mhofu  N02644714Y
-      Tadiwa W Mukozho N02642410B "Build development" 
+      Yemurai Takaindisa      N02645752X "Build"
+      Anesu Njenge            N02641219V "Build"
+      Kudra Gumbo             N02641201W "Build"
+      Ishmael I Shayanewako   N02654127T "Build"
+      Taruvinga Mufudzi       N02645364W "Presenting"
+      Cheryl Donga            N02641879T "presentation "
+      Michael T Duri          N02643960W "Presenting"
+      Tendai Matonhodze       N02645116N "Research"
+      Hilda Dahwa             N02657091M "Research"
+      Natasha Funekiwe Nkomo  N02642892B "Presentation" 
+      Mitchelle Karabo        N02641669M "Writing"
+      Shanelle Mondy          N02654997Y  "Writing"
+      Desire Mbiri            N02644003X "Writing"
+      Nicole Mhofu            N02644714Y "Research"
+      Tadiwa W Mukozho        N02642410B "Build" 
