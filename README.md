@@ -20,3 +20,4 @@ DELIVERY METHOD
 The final output of this project will be a priority-aware household task scheduling system prototype that uses ZETDC load shedding schedules to classify and grade household activities according to their level of importance.
 The system will automatically prioritize critical tasks, such as food preservation, water pumping, device charging, and essential appliances, and schedule them during available electricity periods.
 Using scheduling principles such as Priority Scheduling the prototype will simulate how these tasks can be allocated to available electricity periods before lower-priority activities.
+By assigning priority levels and optimizing task execution under load shedding conditions, the system aims to improve the utilization of limited power availability and minimize disruptions to household operations.
