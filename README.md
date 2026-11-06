@@ -2,6 +2,24 @@ CPU Tech innovators :
 
       We are researching on priority-aware task scheduling mechanism to maintain critical
       house activities under ZESA Load- Shedding Schedules
+NAME.         SURNAME.      STUDENT NUMBER
+KUDRA K.      GUMBO.        N02641201W
+ANESU.        NJENGE.       N02641219V
+TADIWA.       MUKOZHO.      N02642410B
+ISHMAEL I.    SHAYANEWAKO.  N02654127T
+YEMURAI.      TAKAINDISA.   N02645752X
+TARUVINGA.    MUFUDZI.      N02645364W
+CHERYL.       DONGA.        N02641879T
+MICHAEL.      DURI.         N02643960W
+TENDAI.       MATONHODZE.   N02645116N
+NICOLE.       MHOFU.        N02644714Y
+HILDA.        DAHWA.        N02657091M
+NATASHA.      NKOMO.        N02642892B
+MITCHELLE.    KARABO.       N02641669M
+SHANELLE.     MONDY.        N02654997Y
+DESIRE.       MBIRI.        N02644003X
+
+
 
 **_RESEARCH QUESTION_**:
 
