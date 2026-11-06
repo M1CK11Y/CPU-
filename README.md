@@ -33,7 +33,7 @@ Job Scheduling
 
     How can an automated, priority-aware domestic task scheduling algorithm dynamically optimize household appliance runtimes to maximize the completion of critical operations and minimize grid reliance under unpredictable ZETDC load-shedding schedules?
 
-**_WE AIM **:
+**_WE AIM_ **:
 
     To develop a priority-aware job scheduling system that operates around power interruptions by integrating real ZESA load-shedding schedules with a public cloud workload, in order to maximise the completion of critical jobs.
 
