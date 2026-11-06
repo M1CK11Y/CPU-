@@ -15,14 +15,14 @@ How can an automated, priority-aware domestic task scheduling algorithm dynamica
 
       1. To identify and classify household activities accordance to their levels of importance based on their urgency and dependence on electricity during load-      shedding periods.
       2. To design and implement a priority-aware task scheduling prototype that uses ZESA load-shedding schedules to allocate essential household activities to       available electricity periods.
-      3. To evaluate the performance of the scheduling model by comparing electricity utilisation under different load segments ie household, block , township.
+      3. To evaluate the performance of the scheduling model by comparing electricity utilisation under different load segments ie household, block , townships
 
 **_TEAM MEMBERS_**
 
       Yemurai Takaindisa N02645752X "Build development"
       Anesu Njenge N02641219V "Build"
       Kudra Gumbo
-      Ishmael I Shayanewako
+      Ishmael I Shayanewako N02654127T "Build development"
       Taruvinga Mufudzi
       Cheryl Donga
       Michael T Duri
