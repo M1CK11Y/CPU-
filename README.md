@@ -1,7 +1,7 @@
 CPU Tech innovators 
 We are researching on priority-aware task scheduling mechanism to maintain critical house activities under ZESA Load- Shedding Schedules
 
-RESEARCH QUESTION
+RESEARCH QUESTION:
 How can an automated, priority-aware domestic task scheduling algorithm dynamically optimize household appliance runtimes to maximize the completion of critical operations and minimize grid reliance under unpredictable ZETDC load-shedding schedules?
 
 **_AIMS_**:
